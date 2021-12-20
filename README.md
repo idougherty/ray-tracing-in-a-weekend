@@ -5,6 +5,7 @@ A ray tracing project written in C# made by following the [_Ray Tracing in One W
 * Different materials: (Matte, Metallic, & Diffuse Light)
 * Multithreaded rendering
 * Depth of field effects
+* PNG output
 
 ## Sample Renders
 ![A render of 4 colored metallic balls with some roughness.](3840x2160_render_4ball_scene.png)
@@ -17,5 +18,5 @@ A ray tracing project written in C# made by following the [_Ray Tracing in One W
 > Currently only supported on Windows!
 1. Create an environment in `Environments.cs`
 2. Set rendering parameters in `Program.cs`
-  - For renders using diffuse lights, get the best results using a high 'samples per pixel' setting.
-4. Run with `dotnet run`, your output will look like `[WIDTH]x[HEIGHT]\_render.png`
+    - For renders using diffuse lights, get the best results using a high 'samples per pixel' setting.
+3. Run with `dotnet run`, your output will look like `[WIDTH]x[HEIGHT]\_render.png`
