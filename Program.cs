@@ -42,16 +42,16 @@ namespace ray_tracing_in_a_weekend
 
             // Image
             const double aspectRatio = 16.0 / 9;
-            const int imageWidth = 900;
+            const int imageWidth = 1280;
             const int imageHeight = (int) (imageWidth / aspectRatio);
-            const int samples_per_pixel = 12;
+            const int samples_per_pixel = 16;
             const int maxDepth = 10;
             const int numThreads = 12;
 
             // Camera & Environment
-            (List<Hittable> objects, Camera cam, double envBrightness) = Environments.Build4Ball(aspectRatio);
+            // (List<Hittable> objects, Camera cam, double envBrightness) = Environments.Build4Ball(aspectRatio);
             // (List<Hittable> objects, Camera cam, double envBrightness) = Environments.BuildRandom(aspectRatio);
-            // (List<Hittable> objects, Camera cam, double envBrightness) = Environments.BuildLights(aspectRatio);
+            (List<Hittable> objects, Camera cam, double envBrightness) = Environments.BuildLights(aspectRatio);
 
             // Rendering
             Stopwatch stopwatch = Stopwatch.StartNew();

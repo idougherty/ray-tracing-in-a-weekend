@@ -85,7 +85,7 @@ namespace ray_tracing_in_a_weekend {
             Material mat1 = new DiffuseLight(new Vec3(6, 6, 3));
             objects.Add(new Sphere(new Vec3(0, .25, 0), .25, mat1));
             
-            Material mat2 = new Lambertian(new Vec3(.9, .7, .5));
+            Material mat2 = new Lambertian(new Vec3(.9, .6, .2));
             objects.Add(new Sphere(new Vec3(-1.2, .8, .5), .8, mat2));
             objects.Add(new Sphere(new Vec3(   0, .8, -1), .8, mat2));
             objects.Add(new Sphere(new Vec3( 1.2, .8, .5), .8, mat2));
