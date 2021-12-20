@@ -8,11 +8,11 @@ A ray tracing project written in C# made by following the [_Ray Tracing in One W
 * PNG output
 
 ## Sample Renders
-![A render of 4 colored metallic balls with some roughness.](3840x2160_render_4ball_scene.png)
+![A render of 4 colored metallic balls with some roughness.](1280x720_render_4ball_scene.png)
 
-![A render of a dark scene with one diffuse light illuminating 3 matte spheres .](3840x2160_render_light_scene.png)
+![A render of a dark scene with one diffuse light illuminating 3 matte spheres .](1280x720_render_light_scene.png)
 
-![A render of one large mirrored sphere with many small balls scattered around it.](3840x2160_render_rand_scene.png)
+![A render of one large mirrored sphere with many small balls scattered around it.](1280x720_render_rand_scene.png)
 
 ## Running
 > Currently only supported on Windows!
