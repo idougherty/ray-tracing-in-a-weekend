@@ -19,4 +19,4 @@ A ray tracing project written in C# made by following the [_Ray Tracing in One W
 1. Create an environment in `Environments.cs`
 2. Set rendering parameters in `Program.cs`
     - For renders using diffuse lights, get the best results using a high 'samples per pixel' setting.
-3. Run with `dotnet run`, your output will look like `[WIDTH]x[HEIGHT]\_render.png`
+3. Run from the console with `dotnet run`, your output will look like `[WIDTH]x[HEIGHT]\_render.png`
