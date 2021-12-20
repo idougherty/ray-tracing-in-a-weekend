@@ -1,0 +1,22 @@
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\ray tracing in a weekend.exe
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\ray tracing in a weekend.deps.json
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\ray tracing in a weekend.runtimeconfig.json
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\ray tracing in a weekend.runtimeconfig.dev.json
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\ray tracing in a weekend.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\ref\ray tracing in a weekend.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\ray tracing in a weekend.pdb
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.csprojAssemblyReference.cache
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.AssemblyInfoInputs.cache
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.AssemblyInfo.cs
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.csproj.CoreCompileInputs.cache
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ref\ray tracing in a weekend.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.pdb
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.genruntimeconfig.cache
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\thegr\OneDrive\Desktop\ray tracing in a weekend\obj\Debug\net5.0\ray tracing in a weekend.csproj.CopyComplete

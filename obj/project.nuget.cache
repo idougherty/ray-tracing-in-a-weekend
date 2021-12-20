@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "opKFWHaI62BgIjd1kbVQhEFTqh7a9I1egLz7t97OfZvQUB4UuTSYTGaE05tMSDD9RkD7GUV4jVW7wyXkFltD6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thegr\\OneDrive\\Desktop\\ray tracing in a weekend\\ray tracing in a weekend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thegr\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\thegr\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
